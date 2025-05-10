@@ -2,7 +2,7 @@
 ```javascript
 import {getInfo} from "./.js"
 
-const information = getInfo("hossein-ghanimati") 
+const information = getInfo("Mohammad-Taha-Batoomi") 
 console.log(information);
 ```
 
@@ -10,7 +10,7 @@ console.log(information);
 
 ``` json
 {
-    "name": "Hossein Ghanimati",
+    "name": "Mohammad Taha Batoomi",
     "description":"Hi guys. I'm Front End Developer. My skills are HTML, CSS , javascript, tailwind, react, typescript (and some other packages). I have been in the front-end world for almost 1\5 year \nAnd I have been dealing with the dear JavaScript language for almost 1 year and 2 month \nI have recently mastered react and am about to start learning Next"
 }
 ```
@@ -48,14 +48,6 @@ console.log(information);
 <br/>
 <br/>
 
-<h2>🌐 &nbsp; My Project : </h2>
-
-| Project Name | Project Category | Project Packages | Project Link |
-| --- | --- | --- | --- |
-| Roocket Site | Educational | React Tailwind TS | [Roocket](https://hossein-ghanimati.github.io/roocket/) |
-| Fastkasrt Site | Shopping | HTML CSS JS Tailwind | [Fastkart](https://hossein-ghanimati.github.io/fastkart/) |
-| Divar Site | Business website | HTML CSS JS | [Divar](https://hossein-ghanimati.github.io/divar/) |
-| Asancode Site | Educational | HTML CSS JS | [Asancode](https://hossein-ghanimati.github.io/asancode/) |
 
 
 
@@ -71,14 +63,8 @@ console.log(information);
 <h2 align="left">📞 &nbsp; Contact me </h2>
 
 <p align="center">
-  <a href="https://hossein-ghanimati.github.io/asancode">
-    <img src="https://img.shields.io/badge/Website-AsanCode-green?style=flat&logo=google-chrome" />
-  </a>
-  <a href="https://instagram.com/hossein.front.js/">
+  <a href="https://instagram.com/mohammadtaha_b89/">
     <img src="https://img.shields.io/badge/Instagram-@hossein.front.js-red?style=flat&logo=instagram" />
-  </a>
-  <a href="https://t.me/ulasoy/">
-    <img src="https://img.shields.io/badge/Telegram-@ulasoy-blue?style=flat&logo=telegram" />
   </a>
 </p>
 
@@ -113,9 +99,7 @@ console.log(information);
     ⚡️ &nbsp; My Gitub Stat :
 </h2>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-ghanimati&hide_progress=false&theme=dark" />
-</p>
+
 
 <!--
 **hossein-ghanimati/hossein-ghanimati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
