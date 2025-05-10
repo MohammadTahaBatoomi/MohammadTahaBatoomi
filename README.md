@@ -60,15 +60,6 @@ console.log(information);
 <br/>
 <br/>
 
-<h2 align="left">📞 &nbsp; Contact me </h2>
-
-<p align="center">
-  <a href="https://instagram.com/mohammadtaha_b89/">
-    <img src="https://img.shields.io/badge/Instagram-@hossein.front.js-red?style=flat&logo=instagram" />
-  </a>
-</p>
-
-
 
 <br />
 <br />
@@ -95,9 +86,7 @@ console.log(information);
 
 ---
 
-<h2>
-    ⚡️ &nbsp; My Gitub Stat :
-</h2>
+
 
 
 
