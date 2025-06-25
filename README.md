@@ -51,11 +51,6 @@ console.log(information);
 
 
 
-<h2>🔧 &nbsp; The tools I work with :</h2>
-
-<img src="https://skillicons.dev/icons?i=postman,vscode,git,github,figma,npm,vite"/>
-<img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest-api" />
-<img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swager" />
 
 <br/>
 <br/>
