@@ -41,36 +41,6 @@ console.log(information);
 ![React Router](https://img.shields.io/badge/reactrouter-%23E34F26.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Next Ui](https://img.shields.io/badge/nextui-%23E34F26.svg?style=for-the-badge&logo=nextui&logoColor=white&color=black)
 
-
-
-
-
-<br/>
-<br/>
-
-
-
-
-
-<br/>
-<br/>
-
-
-<br />
-<br />
-
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=redux,react"/>
-   <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg"/>
-   
-</p>
-
-
-
-
-<br/>
-<br/>
-
 ---
 
 
