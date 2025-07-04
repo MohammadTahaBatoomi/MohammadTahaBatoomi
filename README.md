@@ -1,6 +1,6 @@
 ## My Info : 
 ```javascript
-import {getInfo} from "./.js"
+import {getInfo} from "./.ts"
 
 const information = getInfo("Mohammad-Taha-Batoomi") 
 console.log(information);
