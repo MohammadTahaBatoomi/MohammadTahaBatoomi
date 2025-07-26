@@ -16,11 +16,21 @@ console.log(information);
 ```
 
 
-<h2>🖥 &nbsp; My Skills :</h2>
+### 🚀 Tech Stack
 
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=js,graphql,tailwind,react,typescript,redux,next,socket"/>
-</p>
+#### 🧱 Languages & Frameworks
+
+<div>
+<table>
+  <tr>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="24" alt="JavaScript"/><br>JavaScript</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width="24" alt="TypeScript"/><br>TypeScript</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/React.svg" width="24" alt="React"/><br>React</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" width="24" alt="Next.js"/><br>Next.js</td>
+
+  </tr>
+</table>
+</div>
 
 <br>
 
