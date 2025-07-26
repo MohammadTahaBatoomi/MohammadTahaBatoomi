@@ -16,41 +16,11 @@ console.log(information);
 ```
 
 
-### 🚀 Tech Stack
+<h2>🖥 &nbsp; My Skills :</h2>
 
-#### 🧱 Languages & Frameworks
-
-### 🚀 Tech Stack
-
-#### 🧱 Languages & Frameworks
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 12px;">
-        <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="40" alt="JavaScript" /><br />
-        <strong>JavaScript</strong>
-      </td>
-      <td align="center" style="padding: 12px;">
-        <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width="40" alt="TypeScript" /><br />
-        <strong>TypeScript</strong>
-      </td>
-      <td align="center" style="padding: 12px;">
-        <img src="https://icon.icepanel.io/Technology/svg/React.svg" width="40" alt="React" /><br />
-        <strong>React</strong>
-      </td>
-      <td align="center" style="padding: 12px;">
-        <img src="https://icon.icepanel.io/Technology/svg/Next.js.svg" width="40" alt="Next.js" /><br />
-        <strong>Next.js</strong>
-      </td>
-      <td align="center" style="padding: 12px;">
-        <img src="https://icon.icepanel.io/Technology/svg/Tailwind_CSS.svg" width="40" alt="Tailwind CSS" /><br />
-        <strong>Tailwind CSS</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=js,graphql,tailwind,react,typescript,redux,next,socket"/>
+</p>
 
 <br>
 
