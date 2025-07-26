@@ -20,17 +20,37 @@ console.log(information);
 
 #### 🧱 Languages & Frameworks
 
-<div>
-<table>
-  <tr>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="24" alt="JavaScript"/><br>JavaScript</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width="24" alt="TypeScript"/><br>TypeScript</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/React.svg" width="24" alt="React"/><br>React</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" width="24" alt="Next.js"/><br>Next.js</td>
+### 🚀 Tech Stack
 
-  </tr>
-</table>
+#### 🧱 Languages & Frameworks
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 12px;">
+        <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="40" alt="JavaScript" /><br />
+        <strong>JavaScript</strong>
+      </td>
+      <td align="center" style="padding: 12px;">
+        <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width="40" alt="TypeScript" /><br />
+        <strong>TypeScript</strong>
+      </td>
+      <td align="center" style="padding: 12px;">
+        <img src="https://icon.icepanel.io/Technology/svg/React.svg" width="40" alt="React" /><br />
+        <strong>React</strong>
+      </td>
+      <td align="center" style="padding: 12px;">
+        <img src="https://icon.icepanel.io/Technology/svg/Next.js.svg" width="40" alt="Next.js" /><br />
+        <strong>Next.js</strong>
+      </td>
+      <td align="center" style="padding: 12px;">
+        <img src="https://icon.icepanel.io/Technology/svg/Tailwind_CSS.svg" width="40" alt="Tailwind CSS" /><br />
+        <strong>Tailwind CSS</strong>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <br>
 
