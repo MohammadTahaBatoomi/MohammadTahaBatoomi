@@ -1,4 +1,4 @@
-## My Info : [My Resume](https://drive.google.com/file/d/1he0_qu0Ga4ChM7V4Woa4qy6joSaCrEiM/view?usp=drive_link)
+## My Info : <a href="https://drive.google.com/file/d/1he0_qu0Ga4ChM7V4Woa4qy6joSaCrEiM/view?usp=drive_link" target="_blank">My Resume</a>
 ```javascript
 import {getInfo} from "./.ts"
 
