@@ -1,4 +1,4 @@
-## My Info : <a href="https://drive.google.com/file/d/1sdAHc-t5h3SY7mlPU-aC-SS-tT6NHd8O/view?usp=drive_link" target="_blank">My Resume</a>
+## My Info : <a href="https://www.canva.com/design/DAG4vKD1pfs/ju6JR27jDWFh2OqdxjN7AQ/view?utm_content=DAG4vKD1pfs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcfe5376807" target="_blank">My Resume</a>
 ```javascript
 import {getInfo} from "./.ts"
  
